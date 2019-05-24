@@ -16,19 +16,14 @@ for page in pages:
 
 filelimit = image_counter-1
 outfile = "cosmetics_low_contrast.txt"
-f = open(outfile, "a") 
+f = open(outfile, "w") 
 
 for i in range(1, filelimit + 1): 
     filename = "f_"+str(i)+".jpg"
-    im = Image.open(filename)
-    enhancer = ImageEnhance.Contrast(im)
-    enhanced_im = enhancer.enhance(0.5)
-    enhanced_im.save(filename)
     text = str(((pytesseract.image_to_string(Image.open(filename))))) 
     listofwords = text.split(' ')
     for word in listofwords:
         if wordnet.synsets(word):
             f.write(word+'\n')
     f.write("\n"+"_____________________________________________________________________")
-    os.remove(filename)
 f.close()
