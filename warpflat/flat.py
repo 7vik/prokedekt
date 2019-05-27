@@ -19,27 +19,31 @@ contours,hierarchy = cv2.findContours(edges, 0, 1)
 areas = [cv2.contourArea(c) for c in contours]
 max_index = np.argmax(areas)
 cnt=contours[max_index]
-a = np.zeros((500,500))
-for i in range(500):
-    for j in range(500):
-        if [i,j] not in cnt:
-            a[i][j] = 0
-        else:
-            a[i][j] = 1 
-f = open("aaa", "w")
-for elem in a:
-    f.write(str(elem))
-#a = cnt
-a = np.expand_dims(a, axis = 2)
-a = np.concatenate((a, a, a), axis = 2)
-#print(a)
-# (90, 100, 3)
-plt.imshow(a)
-plt.show()
-# Create a mask of the label
+for elem in cnt:
+    elem[0][0] += 300
+    elem[0][1] -= 250
+new = []
+for i in range(100,500):
+    temp = [100]
+    temp.append(i)
+    new.append([temp])
+for i in range(100,500):
+    temp = [i]
+    temp.append(500)
+    new.append([temp])
+for i in range(100,500):
+    temp = [500]
+    temp.append(i)
+    new.append([temp])
+for i in range(100,500):
+    temp = [i]
+    temp.append(100)
+    new.append([temp])
+cnt = np.array([np.array(xi) for xi in new])
+f = open("ttt4", "w")
+f.write(str(cnt))
 mask = np.zeros(img.shape,np.uint8)
 cv2.drawContours(mask, [cnt],0,255,-1)
-
 # Find the 4 borders
 scale = 1
 delta = 0
@@ -89,9 +93,9 @@ for y,x,z in np.transpose(np.nonzero(mask)):
     new_x = map_x(res_y.x,[y,x])
     flattened[int(new_y)][int(new_x)] = img[y][x]
 # Crop the image 
-flattened = flattened[0:700, 0:1050]
-#cv2.imshow("warped", flattened)
-#cv2.waitKey(0)
+#flattened = flattened[0:700, 0:1050]
+cv2.imshow("warped", flattened)
+cv2.waitKey(0)
 
 
 # Alternatively, use PiecewiseAffineTransform from SciKit-image to transform the image
