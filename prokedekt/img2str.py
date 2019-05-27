@@ -6,7 +6,7 @@ import os
 from nltk.corpus import wordnet
 
 def img2string(image_file_path, text_file_path="temp.txt", enhanced=False):
-    out = open(text_file_path, "w") 
+    out = open(text_file_path, "a") 
     img = Image.open(image_file_path)
     text = str(pytesseract.image_to_string(img)) 
     out.write(text)
