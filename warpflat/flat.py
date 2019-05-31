@@ -11,7 +11,7 @@ gray_image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 #ret, thresh = cv2.threshold(gray_image,127,200,cv2.THRESH_BINARY)
 v = np.median(img)
 sigma = 0.33
-lower = int(max(0, (1.0 - sigma) * v))
+lower = int (max(0, (1.0 - sigma) * v))
 upper = int(min(255, (1.0 + sigma) * v))
 edges = cv2.Canny(gray_image ,lower, upper)
 # Find largest contour (should be the label)
