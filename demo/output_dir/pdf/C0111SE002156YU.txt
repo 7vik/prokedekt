@@ -1,0 +1,197 @@
+DIAGNOSTIC REPORT “ IL yo
+oF item fier AS ye)
+Haslericcr eis ll ae SRL
+
+ZL s
+CLIENT CODE: C000021309 Cert. No. MC-2010 Diagnostics
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+AMBICARE CLINICS & DIAGNOSTICS PRIME SQUARE BUILDING,PLOT NO 1,GAIWADI INDUSTRIAL
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. ESTATE,S.V. ROAD,GOREGAON (W)
+BOTANICAL GARDEN, KONDAPUR, Mumbai, 400062
+OPP. BOTANICAL GARDEN, KONDAPUR, MAHARASHTRA, INDIA
+HYDERABAD 500084 Tel : 1-800-222-000,
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+040-23004080-17 9908393399 Email : connect@srl.in
+PATIENT NAME : GIRI DEVANATHAN PATIENTID:  GIRIMO91176111
+ACCESSION NO : 0111SE002156 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:12 REPORTED : 15/05/2019 16:55
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+Test Report Status Final Results Biological Reference Interval Units
+
+ee
+
+HOMOCYSTEINE, SERUM/PLASMA
+
+HOMOCYSTEINE 16.37 High With folate umol/L
+supplementation < 12
+Without folate
+supplementation < 15
+METHOD : CHEMILUMINESCENCE,COMPETITIVE IMMUNOASSAY
+
+Interpretation(s)
+
+HOMOCYSTEINE, SERUM/PLASMA-Homocysteine is an intermediary in the sulfur-amino acid metabolism pathways, linking the methionine cycle to the folate cycle. Inborn
+errors of metabolism that lead to homocysteinemia or homocysteinuria include cystathionine beta-synthase deficiency and various defects of methionine re-methylation.
+Genetic defects in vitamin cofactors (vitamin B6, B12, and folate) and nutritional deficiency of B12 and folate also lead to abnormal homocysteine accumulation. As
+Homocysteine is an indicator of acquired Folate or Vitamin B 12 deficiency, serum Folic acid or Vitamin B12 deficiency should be ruled out in case of abnormal homocysteine
+level.
+
+Other factors that may influence and increase plasma homocysteine include:
+Age, Smoking, poor diet/cofactor deficiencies, Chronic kidney disease/renal disease & Hypothyroidism
+
+A high level of homocysteine makes a person more prone to endothelial injury, which leads to vascular inflammation, which in turn may lead to atherogenesis, which can
+
+result in ischemic injury. Abnormally high levels of homocysteine in the serum, above 15 umol/L, is a medical condition called hyperhomocysteinimia which has been claimed
+
+to be a significant risk factor for the development of a wide range of diseases, include thrombosis, neuropsychiatric illness, and fractures.
+Patients taking methotrexate, nicotinic acid, Theophylline, nitrous oxide, S-adenosyl-methionine and L-dopa can have falsely elevated serum HCY levels.
+
+Heterophilic antibodies in human serum can react with reagent immunoglobulins, interfering with in vitro immunoassays. Patients routinely exposed to animals or to animal
+serum products can be prone to this interference and anomalous values may be observed.
+
+ee
+
+* TESTOSTERONE,FREE/TOTAL, SERUM
+
+TESTOSTERONE, TOTAL 246.67 Low 350.0 - 890.0 ng/dl
+METHOD : CHEMILUMINESCENCE,COMPETITIVE IMMUNOASSAY
+
+TESTOSTERONE,FREE 22.07 15.0 - 50.0 pg/mL
+METHOD : CHEMILUMINESCENCE IMMUNOASSAY
+
+% FREE TESTOSTERONE 0.89 High 0.18 - 0.68 %
+
+METHOD : CALCULATED PARAMETER
+
+Interpretation(s)
+
+TESTOSTERONE, FREE/TOTAL, SERUM-
+
+Guideline for total testosterone biological reference rage based on Tanner stage
+Male Tanner stage Biological reference range (ng/dL)
+
+Tanner stage I < 20.0
+
+Tanner stage II < 7.0 - 149.0
+
+Tanner stage III 7.0 — 762.0
+
+Tanner stage IV 164.0 - 854.0
+
+Tanner stage V 194.0 - 783.0
+
+Female Tanner stage Biological reference range (ng/dL)
+
+Tanner stage I < 17.0
+Tanner stage II < 7.0 - 39.0
+
+Page 1 Of 2
+
+°.DIAGNOSTIC REPORT i POEL PN
+oy aes Bee, DOP Fie ger
+BPS ee ell & SRL
+
+CLIENT CODE: C000021309
+
+CLIENT'S NAME AND ADDRESS :
+
+AMBICARE CLINICS & DIAGNOSTICS
+
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP.
+BOTANICAL GARDEN, KONDAPUR,
+
+OPP. BOTANICAL GARDEN, KONDAPUR,
+
+HYDERABAD 500084
+
+TELANGANA INDIA
+
+040-23004080-17 9908393399
+
+Cert. No. MC-2010 Diagnostics
+SRL LIMITED
+
+PRIME SQUARE BUILDING,PLOT NO 1,GAIWADI INDUSTRIAL
+ESTATE,S.V. ROAD,GOREGAON (W)
+
+Mumbai, 400062
+
+MAHARASHTRA, INDIA
+
+Tel : 1-800-222-000,
+
+CIN - U74899PB1995PLC045956
+
+Email : connect@srl.in
+
+PATIENT NAME: GIRI DEVANATHAN PATIENTID: GIRIMO91176111
+ACCESSION NO : 0111SE002156 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:12 REPORTED : 15/05/2019 16:55
+
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Final Results Biological Reference Interval Units
+Tanner stage III 10.0 — 60.0
+
+Tanner stage IV 8.0 - 63.0
+
+Tanner stage V- 10.0 - 60.0
+
+**End Of Report**
+TEST MARKED WITH '*' ARE OUTSIDE THE NABL ACCREDITED SCOPE OF THE LABORATORY.
+
+Dr. Kshama P, MD
+Biochemist
+
+CONDITIONS OF LABORATORY TESTING & REPORTING
+
+1. It is presumed that the test sample belongs to the patient
+named or identified in the test requisition form.
+2. All Tests are performed and reported as per the
+turnaround time stated in the SRL Directory of services
+(DOS).
+3. SRL confirms that all tests have been performed or
+assayed with highest quality standards, clinical safety &
+technical integrity.
+4. A requested test might not be performed if:
+
+a. Specimen received is insufficient or inappropriate
+specimen quality is unsatisfactory
+
+b. Incorrect specimen type
+
+c. Request for testing is withdrawn by the ordering doctor
+or patient
+
+d. There is a discrepancy between the label on the
+specimen container and the name on the test requisition
+form
+
+5. Theresults of a laboratory test are dependent on the
+quality of the sample as well as the assay technology.
+
+6. Result delays could be because of uncontrolled
+circumstances. e.g. assay run failure.
+
+7. Tests parameters marked by asterisks are excluded from
+the “scope" of NABL accredited tests. (If laboratory is
+accredited).
+
+8. Laboratory results should be correlated with clinical
+information to determine Final diagnosis.
+
+9. Test results are not valid for Medico- legal purposes.
+
+10. In case of queries or unexpected test results please call
+at SRL customer care (Toll free: 1800-222-000). Post proper
+investigation repeat analysis may be carried out.
+
+SRL Limited
+
+Fortis Hospital, Sector 62, Phase VIII,
+Mohali 160062
+
+ 
+
+Page 2 Of 2

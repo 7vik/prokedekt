@@ -1,0 +1,1201 @@
+HESS
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS :
+
+AMBICARE CLINICS & DIAGNOSTICS
+
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP.
+BOTANICAL GARDEN, KONDAPUR,
+
+OPP. BOTANICAL GARDEN, KONDAPUR,
+
+HYDERABAD 500084
+
+TELANGANA INDIA
+
+040-23004080-17 9908393399
+
+PATIENT NAME: GIRI DEVANATHAN
+
+ACCESSIONNO: 0111SE002157 AGE: 42 Years
+
+DRAWN: 14/05/2019 11:20
+
+REFERRING DOCTOR: SELF
+
+Test Report Status Preliminary Results
+
+COMPLETE CARE TOTAL
+BLOOD COUNTS
+
+HEMOGLOBIN 14.6
+METHOD : CYANMETHEMOGLOBIN METHOD
+
+RED BLOOD CELL COUNT 4.97
+METHOD : ELECTRICAL IMPEDANCE
+
+WHITE BLOOD CELL COUNT 9.10
+METHOD : ELECTRICAL IMPEDANCE
+
+PLATELET COUNT 377
+
+METHOD : ELECTRICAL IMPEDANCE
+RBC AND PLATELET INDICES
+
+HEMATOCRIT 43.7
+METHOD : NUMERIC INTEGRATION
+
+MEAN CORPUSCULAR VOL 88.0
+METHOD : CALCULATED PARAMETER
+
+MEAN CORPUSCULAR HGB. 29.3
+METHOD : CALCULATED PARAMETER
+
+MEAN CORPUSCULAR HEMOGLOBIN 33.4
+
+CONCENTRATION
+METHOD : CALCULATED PARAMETER
+
+RED CELL DISTRIBUTION WIDTH 12.2
+METHOD : CALCULATED PARAMETER
+
+MEAN PLATELET VOLUME 9.0
+
+METHOD : CALCULATED PARAMETER
+WBC DIFFERENTIAL COUNT
+
+SEGMENTED NEUTROPHILS 53
+METHOD : ACV TECHNOLOGY
+
+ABSOLUTE NEUTROPHIL COUNT 4.82
+METHOD : CALCULATED PARAMETER
+
+EOSINOPHILS 2
+METHOD : ACV TECHNOLOGY
+
+ABSOLUTE EOSINOPHIL COUNT 0.18
+METHOD : CALCULATED PARAMETER
+
+LYMPHOCYTES 39
+METHOD : ACV TECHNOLOGY
+
+ABSOLUTE LYMPHOCYTE COUNT 3.55
+METHOD : CALCULATED PARAMETER
+
+MONOCYTES 5
+
+SEX : Male
+
+SRL
+
+Ft, Uiagnostics
+re S
+
+ran
+
+Cert. No. MC-3058
+
+SRL LIMITED
+
+2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+Garden,Kondapur
+
+HYDERABAD, 500084
+
+ANDHRA PRADESH, INDIA
+
+Tel : 040-23004017/80, Fax :
+
+CIN - U74899PB1995PLC045956
+
+Email : kondapur2@ambicareclinics.com
+
+PATIENT ID: GIRIMO91176111
+
+DATE OF BIRTH : 09/11/1976
+
+RECEIVED: 14/05/2019 12:14
+
+REPORTED :
+
+CLIENT PATIENT ID : 53021
+
+14/05/2019 14:56
+
+Biological Reference Interval Units
+13.0 - 17.0 g/dL
+4.5-5.5 mil/pL
+4.0 - 10.0 thou/uL
+150 - 410 thou/uL
+40 - 50 %
+83 - 101 fL
+27.0 - 32.0 Pg
+31.5 - 34.5 g/dL
+11.6 - 14.0 %
+6.8 - 10.9 fL
+40 - 80 %o
+2.0 - 7.0 thou/uL
+1-6 %
+0.02 - 0.50 thou/yL
+20 - 40 %
+
+High 1.0 - 3.0 thou/uL
+2-10 %
+
+Page 1 Of 13DIAGNOSTIC REPORT
+
+SRL
+
+DSR E|| Biagnestic
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS :
+AMBICARE CLINICS & DIAGNOSTICS
+
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP.
+
+BOTANICAL GARDEN, KONDAPUR,
+
+OPP. BOTANICAL GARDEN, KONDAPUR,
+HYDERABAD 500084
+
+TELANGANA INDIA
+
+040-23004080-17 9908393399
+
+PATIENT NAME: GIRI DEVANATHAN
+
+ACCESSIONNO: 0O111SE002157 AGE:
+DRAWN: 14/05/2019 11:20
+
+REFERRING DOCTOR: SELF
+
+Test Report Status Preliminary
+
+METHOD : ACV TECHNOLOGY
+ABSOLUTE MONOCYTE COUNT
+
+METHOD : CALCULATED PARAMETER
+BASOPHILS
+ABSOLUTE BASOPHIL COUNT
+
+METHOD : CALCULATED PARAMETER
+DIFFERENTIAL COUNT PERFORMED ON:
+MORPHOLOGY
+RBC
+WBC
+PLATELETS
+ERYTHRO SEDIMENTATION RATE, BLOOD
+SEDIMENTATION RATE (ESR)
+
+METHOD : WESTERGREN METHOD
+TOTAL IRON BINDING CAPACITY, SERUM
+TRON
+
+METHOD : SPECTROPHOTOMETRY - FERENE
+TOTAL IRON BINDING CAPACITY
+
+METHOD : SPECTROPHOTOMETRY - FERENE
+% SATURATION
+
+METHOD : CALCULATED PARAMETER
+GLUCOSE, FASTING, PLASMA
+GLUCOSE, FASTING, PLASMA
+
+METHOD : SPECTROPHOTOMETRY HEXOKINASE
+
+42 Years
+
+RECEIVED: 14/05/2019 12:14
+
+SRL LIMITED
+
+2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+Garden,Kondapur
+
+HYDERABAD, 500084
+
+ANDHRA PRADESH, INDIA
+
+Tel : 040-23004017/80, Fax :
+
+CIN - U74899PB1995PLC045956
+
+Email : kondapur2@ambicareclinics.com
+
+PATIENT ID: GIRIMO91176111
+
+SEX: Male DATE OF BIRTH : 09/11/1976
+REPORTED : 14/05/2019 14:56
+
+CLIENT PATIENT ID : 53021
+
+Results Biological Reference Interval Units
+0.46 0.2- 1.0 thou/uL
+1 0-2 %
+
+0.09 0.02 - 0.10 thou/uL
+EDTA SMEAR
+
+NORMOCYTIC NORMOCHROMIC
+WBCS ARE NORMAL IN NUMBER & MORPHOLOGY
+PLATELETS ARE ADEQUATE IN NUMBER
+
+18 High 0 - 14 mm at 1 hr
+74 65-175 g/dL
+
+473 High 250 - 450 ug/dL
+
+16 13 - 45 %
+
+119 High 74 - 99 mg/dL
+
+Page 2 Of 13‘SRL
+iil ae aaesiee ee] | | Diagnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENT ID : GIRIMO91176111
+ACCESSION NO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+GLUCOSE, FASTING, PLASMA
+
+05-FEB-2015 O9-JUN-2015 10-MAR-2016 14-MAY-2019
+Date ——————————__—— >
+
+NormalRange
+
+ 
+
+GLYCOSYLATED HEMOGLOBIN, EDTA WHOLE BLOOD
+
+GLYCOSYLATED HEMOGLOBIN (HBA1C) 6.3 High Non-diabetic: < 5.7 %
+Pre-diabetics: 5.7 - 6.4
+Diabetics: > or = 6.5
+ADA Target: 7.0
+Action suggested: > 8.0
+METHOD : SPECTROPHOTOMETRY, TURBIDIMETRIC INHIBITION IMMUNOASSAY (TINIA)
+
+MEAN PLASMA GLUCOSE 134.1 High < 116.0 mg/dL
+METHOD : CALCULATED PARAMETER
+
+Page 3 Of 13DIAGNOSTIC REPORT
+
+CLIENT CODE :
+
+OFS
+
+C000021309
+
+CLIENT'S NAME AND ADDRESS :
+
+AMBICARE CLINICS & DIAGNOSTICS
+
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP.
+BOTANICAL GARDEN, KONDAPUR,
+
+OPP. BOTANICAL GARDEN, KONDAPUR,
+
+HYDERABAD 500084
+
+TELANGANA INDIA
+
+040-23004080-17 9908393399
+
+ 
+
+SRL
+
+Diagnostics
+
+SRL LIMITED
+
+2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+Garden,Kondapur
+
+HYDERABAD, 500084
+
+ANDHRA PRADESH, INDIA
+
+Tel : 040-23004017/80, Fax :
+
+CIN - U74899PB1995PLC045956
+
+Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENTID: GIRIMO91176111
+ACCESSIONNO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH: 09/11/1976
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED: 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+Test Report Status Preliminary Results Biological Reference Interval Units
+GLYCOSYLATED HEMOGLOBIN (HBAIC)
+: Nondiabetic
+32
+09-JUN-2015 14-MAY-2019
+Date ---------------------— >
+LIVER FUNCTION PROFILE, SERUM
+BILIRUBIN, TOTAL 0.47 0.2-1.0 mg/dL
+METHOD : SPECTROPHOTOMETRY, JENDRASSIK & GROFF
+BILIRUBIN, DIRECT 0.15 0.0 - 0.2 mg/dL
+METHOD : SPECTROPHOTOMETRIC, DIAZOTIZATION
+BILIRUBIN, INDIRECT 0.32 0.1 - 1.0 mg/dL
+TOTAL PROTEIN 8.5 High 6.4 - 8.2 g/dL
+METHOD : SPECTROPHOTOMETRY, MODIFIED BIURET
+ALBUMIN 4.6 3.4 - 5.0 g/dL
+METHOD : SPECTROPHOTOMETRY - BROMOCRESOL PURPLE
+GLOBULIN 3.9 2.0 - 4.1 G/DL
+ALBUMIN/GLOBULIN RATIO 1.2 1.0- 2.1 RATIO
+ASPARTATE AMINOTRANSFERASE (AST/SGOT) 73 High 15 - 37 U/L
+METHOD : SPECTROPHOTOMETRY, UV WITH PYRIDOXAL -5-PHOSPHATE
+ALANINE AMINOTRANSFERASE (ALT/SGPT) 40 < 45.0 U/L
+ALKALINE PHOSPHATASE 94 30 - 120 U/L
+METHOD : SPECTROPHOTOMETRY, P-NPP (AMP BUFFER)
+GAMMA GLUTAMYL TRANSFERASE (GGT) 49 15-85 U/L
+METHOD : SPECTROPHOTOMETRY, G-GLUTAMYL-CARBOXY-NITRONILIDE
+LACTATE DEHYDROGENASE 193 High 100 - 190 U/L
+
+METHOD : SPECTROPHOTOMETRY,LACTATE - PYRUVATE
+
+Page 4 Of 13DIAGNOSTIC REPORT
+
+CLIENT CODE :
+
+OFS
+
+C000021309
+
+CLIENT'S NAME AND ADDRESS :
+
+AMBICARE CLINICS & DIAGNOSTICS
+
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP.
+BOTANICAL GARDEN, KONDAPUR,
+
+OPP. BOTANICAL GARDEN, KONDAPUR,
+
+HYDERABAD 500084
+
+TELANGANA INDIA
+
+040-23004080-17 9908393399
+
+SRL
+
+Uiagnostics
+
+SRL LIMITED
+
+2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+Garden,Kondapur
+
+HYDERABAD, 500084
+
+ANDHRA PRADESH, INDIA
+
+Tel : 040-23004017/80, Fax :
+
+CIN - U74899PB1995PLC045956
+
+Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENTID: GIRIM0O91176111
+ACCESSION NO: 0111SE002157 # £AGE: 42 Years SEX: Male DATE OF BIRTH: 09/11/1976
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED: 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+Test Report Status Preliminary Results Biological Reference Interval Units
+25 - HYDROXYVITAMIN D, SERUM RESULT PENDING
+CALCIUM, SERUM
+CALCIUM 9.7 8.5 - 10.1 mg/dL
+VITAMIN Bi2 LEVEL, SERUM RESULT PENDING
+THYROID PANEL, SERUM RESULT PENDING
+CORONARY RISK PROFILE (LIPID PROFILE), SERUM
+CHOLESTEROL 162 < 200 Desirable mg/dL
+200 - 239 Borderline High
+>/= 240 High
+TRIGLYCERIDES 166 High < 150 Normal mg/dL
+150 - 199 Borderline High
+200 - 499 High
+>/=500 Very High
+HDL CHOLESTEROL 35 Low < 40 Low mg/dL
+>/=60 High
+DIRECT LDL CHOLESTEROL 99 < 100 Optimal mg/dL
+100 - 129 Near or above optimal
+130 - 159 Borderline High
+160 - 189 High
+>/= 190 Very High
+NON HDL CHOLESTEROL 127 Desirable: Less than 130 mg/dL
+Above Desirable: 130 - 159
+Borderline High: 160 - 189
+High: 190 - 219
+Very high: > or = 220
+CHOL/HDL RATIO 4.6 High 3.3 - 4.4 Low Risk
+4.5 - 7.0 Average Risk
+7.1 - 11.0 Moderate Risk
+> 11.0 High Risk
+LDL/HDL RATIO 2.8 0.5 - 3.0 Desirable/Low Risk
+3.1 - 6.0 Borderline/Moderate Risk
+>6.0 High Risk
+VERY LOW DENSITY LIPOPROTEIN 33.2 High </= 30.0 mg/dL
+
+Page 5 Of 13a \SRL
+iil Be eS acetal || Diagnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME: GIRI DEVANATHAN PATIENT ID : GIRIMO91176111
+ACCESSIONNO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH: 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+CHOLESTEROL
+
+05-FEB-2015 O9-JUN-2015 10-MAR-2016 14-MAY-2019
+
+Date -——___—_-_—-—— —
+
+TRIGLYCERIDES
+
+05-FEB-2015 O9-JUN-2015 10-MAR-2016 14-MAY-2019
+
+Date ooo --- +--+ >
+
+ 
+
+Page 6 Of 13a SRL
+iil Bs RSS ceo il | Diagnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENT ID : GIRIMO091176111
+ACCESSIONNO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH: 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+CHOLESTEROL HDL
+
+05-FEB-2015 O9-JUN-2015 10-MAR-2016 14-MAY-2019
+
+D at |
+
+DIRECT LDL CHOLESTEROL
+
+05-FEB-2015 O9-JUN-2015 10-MAR-2016 14-MAY-2019
+
+Date -—___-_-_—_ —>
+
+ 
+
+SERUM BLOOD UREA NITROGEN
+BLOOD UREA NITROGEN 13 6 - 20 mg/dL
+
+Page 7 Of 13DIAGNOSTIC REPORT
+
+CLIENT CODE :
+
+OFS
+
+C000021309
+
+CLIENT'S NAME AND ADDRESS :
+
+AMBICARE CLINICS & DIAGNOSTICS
+
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP.
+BOTANICAL GARDEN, KONDAPUR,
+
+OPP. BOTANICAL GARDEN, KONDAPUR,
+
+HYDERABAD 500084
+
+TELANGANA INDIA
+
+040-23004080-17 9908393399
+
+ 
+
+SRL
+
+Diagnostics
+
+SRL LIMITED
+
+2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+Garden,Kondapur
+
+HYDERABAD, 500084
+
+ANDHRA PRADESH, INDIA
+
+Tel : 040-23004017/80, Fax :
+
+CIN - U74899PB1995PLC045956
+
+Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENTID: GIRIM0O91176111
+ACCESSION NO: 0111SE002157 # £AGE: 42 Years SEX: Male DATE OF BIRTH: 09/11/1976
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED: 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+Test Report Status Preliminary Results Biological Reference Interval Units
+BLOOD UREA NITROGEN
+09-JUN-2015 14-MAY-2019
+Date --------------------—
+CREATININE, SERUM
+CREATININE 1.12 0.90 - 1.30 mg/dL
+BUN/CREAT RATIO
+BUN/CREAT RATIO 11.61 5.00 - 15.00
+URIC ACID, SERUM
+URIC ACID 5.7 3.5 - 7.2 mg/dL
+TOTAL PROTEIN, SERUM
+TOTAL PROTEIN 8.5 High 6.4 - 8.2 g/dL
+ALBUMIN, SERUM
+ALBUMIN 4.6 3.4 - 5.0 g/dL
+GLOBULIN
+GLOBULIN 3.9 2.0 - 4.1 g/dL
+ELECTROLYTES (NA/K/CL), SERUM
+SODIUM 143.3 137 - 145 mmol/L
+POTASSIUM 4.55 3.6 - 5.0 mmol/L
+CHLORIDE 107.9 High 98 - 107 mmol/L
+URINALYSIS
+COLOR PALE YELLOW
+APPEARANCE CLEAR
+
+Page 8 Of 13‘SRL
+iil Bee Rest Resp ahas fl | | Dia gnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME: GIRI DEVANATHAN PATIENTID: GIRIMO91176111
+
+ACCESSIONNO: 0O111SE002157
+DRAWN: 14/05/2019 11:20
+
+REFERRING DOCTOR :
+
+42 Years
+
+14/05/2019 12:14
+
+SEX: Male DATE OF BIRTH :
+
+REPORTED : 14/05/2019 14:56
+
+CLIENT PATIENT ID : 53021
+
+09/11/1976
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+PH 8.5 High 4.7 - 7.5
+
+SPECIFIC GRAVITY 1.015 1.003 - 1.035
+
+GLUCOSE NOT DETECTED NOT DETECTED
+
+PROTEIN NOT DETECTED NOT DETECTED
+
+KETONES NOT DETECTED NOT DETECTED
+
+BLOOD NOT DETECTED NOT DETECTED
+
+BILIRUBIN NOT DETECTED NOT DETECTED
+
+UROBILINOGEN NORMAL NORMAL
+
+NITRITE NOT DETECTED NOT DETECTED
+
+WBC 1-2 0-5 /HPF
+
+EPITHELIAL CELLS O-1 0-5 /HPF
+
+RED BLOOD CELLS NOT DETECTED NOT DETECTED /HPF
+
+CASTS NOT DETECTED
+
+CRYSTALS NOT DETECTED
+
+BACTERIA NOT DETECTED NOT DETECTED
+
+REMARKS MICROSCOPIC EXAMINATION OF URINE IS CARRIED OUT ON
+CENTRIFUGED URINARY SEDIMENT.
+
+MAGNESIUM, SERUM
+
+MAGNESIUM 2.0 1.8 - 2.4 mg/dL
+
+Interpretation(s)
+
+BLOOD COUNTS-The cell morphology is well preserved for 24hrs. However after 24-48 hrs a progressive increase in MCV and HCT is observed leading to a decrease in MCHC.
+A direct smear is recommended for an accurate differential count and for examination of RBC morphology.
+
+RBC AND PLATELET INDICES-The cell morphology is well preserved for 24hrs. However after 24-48 hrs a progressive increase in MCV and HCT is observed leading to a
+decrease in MCHC. A direct smear is recommended for an accurate differential count and for examination of RBC morphology.
+
+ERYTHRO SEDIMENTATION RATE, BLOOD-Erythrocyte sedimentation rate (ESR) is a non - specific phenomena and is clinically useful in the diagnosis and monitoring of
+disorders associated with an increased production of acute phase reactants. The ESR is increased in pregnancy from about the 3rd month and returns to normal by the 4th
+week post partum. ESR is influenced by age, sex, menstrual cycle and drugs (eg. corticosteroids, contraceptives). It is especially low (0 -1mm) in polycythaemia,
+hypofibrinogenemia or congestive cardiac failure and when there are abnormalities of the red cells such as poikilocytosis, spherocytosis or sickle cells.
+
+Reference :
+
+1. Nathan and Oski’s Haematology of Infancy and Childhood, 5th edition
+
+2. Paediatric reference intervals. AACC Press, 7th edition. Edited by S. Soldin
+
+3. The reference for the adult reference range is “Practical Haematology by Dacie and Lewis, 10th Edition”
+
+TOTAL IRON BINDING CAPACITY, SERUM-Total iron binding capacity (TIBC) measures the blood’s capacity to bind iron with transferrin and thus is an indirect way of
+assessing transferrin level.
+
+Taken together with serum iron and percent transferrin saturation this test is performed when they is a concern about anemia, iron deficiency or iron deficiency anemia.
+However, because the liver produces transferrin, alterations in liver function (such as cirrhosis, hepatitis, or liver failure) must be considered when performing this test.
+Increased in:
+
+- iron deficiency
+
+- acute and chronic blood loss
+
+- acute liver damage
+
+- progesterone birth control pills
+
+Decreased in:
+
+- hemochromatosis
+
+- cirrhosis of the liver
+
+- thalassemia
+
+- anemias of infection and chronic diseases
+
+- nephrosis
+
+- hyperthyroidism
+
+Page 9 Of 13‘SRL
+iil Bee Rest Resp ahas fl | | Dia gnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENT ID : GIRIMO91176111
+ACCESSION NO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+The percent Transferrin saturation = Serum Iron/TIBC x 100
+Unsaturated Binding Capacity (UIBC)=TIBC - Serum Iron.
+Limitations: Estrogens and oral contraceptives increase TIBC and Asparaginase, chloramphenicol, corticotropin, cortisone and testosterone decrease the TIBC level.
+
+Reference:
+
+1.Tietz Textbook of Clinical Chemistry and Molecular Diagnostics, edited by Carl A Burtis, Edward R.Ashwood, David E Bruns, 4th Edition, Elsevier publication, 2006, 563,
+1314-1315.
+
+2. Wallach’s Interpretation of Diagnostic tests, 9th Edition, Ed Mary A Williamson and L Michael Snyder. Pub Lippincott Williams and Wilkins, 2011, 234-235.
+
+GLUCOSE, FASTING, PLASMA-ADA 2012 guidelines for adults as follows:
+
+Pre-diabetics: 100 - 125 mg/dL
+
+Diabetic: > or = 126 mg/dL
+
+(Ref: Tietz 4th Edition & ADA 2012 Guidelines)
+
+GLYCOSYLATED HEMOGLOBIN, EDTA WHOLE BLOOD-Glycosylated hemoglobin (GHb) has been firmly established as an index of long-term blood glucose concentrations and
+as a measure of the risk for the development of complications in patients with diabetes mellitus. Formation of GHb is essentially irreversible, and the concentration in the
+blood depends on both the life span of the red blood cell (average 120 days) and the blood glucose concentration. Because the rate of formation of GHb is directly
+proportional to the concentration of glucose in the blood, the GHb concentration represents the integrated values for glucose over the preceding 6-8 weeks.
+
+Any condition that alters the life span of the red blood cells has the potential to alter the GHb level. Samples from patients with hemolytic anemias will exhibit decreased
+glycated hemoglobin values due to the shortened life span of the red cells. This effect will depend upon the severity of the anemia. Samples from patients with polycythemia
+or post-splenectomy may exhibit increased glycated hemoglobin values due to a somewhat longer life span of the red cells.
+
+Glycosylated hemoglobins results from patients with HbSS, HbCC, and HbSC and HbD must be interpreted with caution, given the pathological processes, including anemia,
+increased red cell turnover, transfusion requirements, that adversely impact HbAic as a marker of long-term glycemic control. In these conditions, alternative forms of
+testing such as glycated serum protein (fructosamine) should be considered.
+
+References
+
+1. Tietz Textbook of Clinical Chemistry and Molecular Diagnostics, edited by Carl A Burtis, Edward R.Ashwood, David E Bruns, 4th Edition, Elsevier publication, 2006,
+879-884.
+
+2. Forsham PH. Diabetes Mellitus:A rational plan for management. Postgrad Med 1982, 71,139-154.
+
+3. Mayer TK, Freedman ZR: Protein glycosylation in Diabetes Mellitus: A review of laboratory measurements and their clinical utility. Clin Chim Acta 1983, 127, 147-184.
+LIVER FUNCTION PROFILE, SERUM-LIVER FUNCTION PROFILE
+
+Bilirubin is a yellowish pigment found in bile and is a breakdown product of normal heme catabolism. Bilirubin is excreted in bile and urine, and elevated levels may give
+yellow discoloration in jaundice.Elevated levels results from increased bilirubin production (eg, hemolysis and ineffective erythropoiesis), decreased bilirubin excretion (eg,
+obstruction and hepatitis), and abnormal bilirubin metabolism (eg, hereditary and neonatal jaundice). Conjugated (direct) bilirubin is elevated more than unconjugated
+(indirect) bilirubin in Viral hepatitis, Drug reactions, Alcoholic liver disease Conjugated (direct) bilirubin is also elevated more than unconjugated (indirect) bilirubin when
+there is some kind of blockage of the bile ducts like in Gallstones getting into the bile ducts, tumors &Scarring of the bile ducts. Increased unconjugated (indirect) bilirubin
+may be a result of Hemolytic or pernicious anemia, Transfusion reaction & a common metabolic condition termed Gilbert syndrome, due to low levels of the enzyme that
+attaches sugar molecules to bilirubin.
+
+AST is an enzyme found in various parts of the body. AST is found in the liver, heart, skeletal muscle, kidneys, brain, and red blood cells, and it is commonly measured
+clinically as a marker for liver health. AST levels increase during chronic viral hepatitis, blockage of the bile duct, cirrhosis of the liver,liver cancer,kidney failure,hemolytic
+anemia, pancreatitis, hemochromatosis. AST levels may also increase after a heart attack or strenuous activity.ALT test measures the amount of this enzyme in the blood.ALT
+is found mainly in the liver, but also in smaller amounts in the kidneys,heart,muscles, and pancreas.It is commonly measured as a part of a diagnostic evaluation of
+hepatocellular injury, to determine liver health.AST levels increase during acute hepatitis,sometimes due to a viral infection,ischemia to the liver,chronic hepatitis,obstruction
+of bile ducts,cirrhosis.
+
+ALP is a protein found in almost all body tissues.Tissues with higher amounts of ALP include the liver,bile ducts and bone.Elevated ALP levels are seen in Biliary obstruction,
+Osteoblastic bone tumors, osteomalacia, hepatitis, Hyperparathyroidism, Leukemia, Lymphoma, Paget'''"''''s disease,Rickets,Sarcoidosis etc. Lower-than-normal ALP levels
+seen in Hypophosphatasia,Malnutrition,Protein deficiency, Wilson''''"''s disease.GGT is an enzyme found in cell membranes of many tissues mainly in the liver,kidney and
+pancreas. It is also found in other tissues including intestine,spleen,heart, brain and seminal vesicles. The highest concentration is in the kidney,but the liver is considered the
+source of normal enzyme activity.Serum GGT has been widely used as an index of liver dysfunction.Elevated serum GGT activity can be found in diseases of the liver,biliary
+system and pancreas.Conditions that increase serum GGT are obstructive liver disease,high alcohol consumption and use of enzyme-inducing drugs etc.Serum total
+protein,also known as total protein,is a biochemical test for measuring the total amount of protein in serum.Protein in the plasma is made up of albumin and
+globulin.Higher-than-normal levels may be due to:Chronic inflammation or infection,including HIV and hepatitis B or C,Multiple myeloma,Waldenstrom'"""'""'s
+disease.Lower-than-normal levels may be due to: Agammaglobulinemia,Bleeding (hemorrhage),Burns,Glomerulonephritis,Liver disease, Malabsorption,Malnutrition, Nephrotic
+syndrome,Protein-losing enteropathy etc.Human serum albumin is the most abundant protein in human blood plasma. It is produced in the liver.Albumin constitutes about
+half of the blood serum protein.Low blood albumin levels (hypoalbuminemia) can be caused by:Liver disease like cirrhosis of the liver, nephrotic syndrome, protein-losing
+enteropathy,Burns,hemodilution,increased vascular permeability or decreased lymphatic clearance,malnutrition and wasting etc
+
+25 - HYDROXYVITAMIN D, SERUM-
+
+Note: Our Vitamin D assays is standardized to be in alignment with the ID-LC/MS/MS 25(OH)vitamin D Reference Method Procedure (RMP), the reference procedure for the
+Vitamin D Standardization Program (VDSP). The VDSP, a collaboration of the National Institutes of Health Office of Dietary Supplements, National Institute of Technology and
+Standards, Centers for Disease Control and Ghent University, is an initiative to standardize 25(OH)vitamin D measurement across methods
+
+CALCIUM, SERUM-Commom causes of decreased value of calcium (hypocalcemia) are chronic renal failure, hypomagnesemia and hypoalbuminemia.
+
+Hypercalcemia (increased value of calcium) can be caused by increased intestinal absorbtion (vitamin d intoxication), increased skeletal reasorption (immobilization),
+or a combination of mechanisms (primary hyperparathyroidism). Primary hyperparathyroidism and malignancy accounts for 90-95% of all cases of hypercalcemia.
+
+Values of total calciumis affected by serum proteins, particularly albumin thus, latter’s value should be taken into account when interpreting serum calcium
+levels. The following regression equation may be helpful.
+
+Corrected total calcium (mg/dl)= total calcium (mg/dl) + 0.8 (4- albumin [g/dl])*
+
+because regression equations vary among group of patients in different physiological and pathological conditions, mathematical corrections are only
+approximations. The possible mathematical corrections should be replaced by direct determination of free calcium by ISE (available with srl) a common and
+
+Page 10 Of 13‘SRL
+iil Bee Rest Resp ahas fl | | Dia gnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENT ID : GIRIMO91176111
+ACCESSION NO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+important source of preanalytical error in the measurement of calcium is prolonged torniquet application during sampling. Thus, this along with fist clenching
+should be avoided before phlebotomy.
+
+THYROID PANEL, SERUM-Triiodothyronine T3 , is a thyroid hormone. It affects almost every physiological process in the body, including growth, development, metabolism,
+body temperature, and heart rate. Production of T3 and its prohormone thyroxine (T4) is activated by thyroid-stimulating hormone (TSH), which is released from the pituitary
+gland. Elevated concentrations of T3, and T4 in the blood inhibit the production of TSH.
+
+Thyroxine T4, Thyroxine’s principal function is to stimulate the metabolism of all cells and tissues in the body. Excessive secretion of thyroxine in the body is hyperthyroidism,
+and deficient secretion is called hypothyroidism. Most of the thyroid hormone in blood is bound to transport proteins. Only a very small fraction of the circulating hormone is
+free and biologically active.
+
+In primary hypothyroidism, TSH levels are significantly elevated, while in secondary and tertiary hypothyroidism, TSH levels are low.
+
+Below mentioned are the guidelines for Pregnancy related reference ranges for Total T4, TSH & Total T3
+
+Levels in TOTAL T4 TSH3G TOTAL T3
+Pregnancy (ug/dL) (uIU/mL) (ng/dL)
+First Trimester 6.6 - 12.4 0.1-2.5 81 - 190
+2nd Trimester 6.6- 15.5 0.2 - 3.0 100 - 260
+3rd Trimester 6.6- 15.5 0.3 - 3.0 100 - 260
+Below mentioned are the guidelines for age related reference ranges for T3, T4 and TSH.
+T3 T4 TSH3G
+(ng/dL) (ug/dL) (uIU/mL)
+Cord Blood: 30 - 70 1-3 day: 8.2 - 19.9 < 2 years — Not Established
+New Born: 75 - 260 1 Week: 6.0 - 15.9
+1-5 Years: 100 - 260 1-12 Months: 6.1 - 14.9
+5 - 10 Years: 90 - 240 1 - 3 Years: 6.8 - 13.5
+10 - 15 Years: 80 - 210 3 - 10 Years: 5.5 - 12.8
+Reference:
+
+1. Burtis C.A., Ashwood E. R. Bruns D.E. Teitz textbook of Clinical Chemistry and Molecular Diagnostics, 4th Edition.
+
+2. Gowenlock A.H. Varley""""'"'"'''"'s Practical Clinical Biochemistry, 6th Edition.
+
+3. Behrman R.E. Kilegman R.M., Jenson H. B. Nelson Text Book of Pediatrics, 17th Edition
+
+CORONARY RISK PROFILE (LIPID PROFILE), SERUM-Serum cholesterol is a blood test that can provide valuable information for the risk of coronary artery disease This test
+can help determine your risk of the build up of plaques in your arteries that can lead to narrowed or blocked arteries throughout your body (atherosclerosis). High cholesterol
+levels usually don''t cause any signs or symptoms, so a cholesterol test is an important tool. High cholesterol levels often are a significant risk factor for heart disease
+and important for diagnosis of hyperlipoproteinemia, atherosclerosis, hepatic and thyroid diseases.
+
+Serum Triglyceride are a type of fat in the blood. When you eat, your body converts any calories it doesn""'"'"'"'""'"t need into triglycerides, which are stored in fat cells. High
+triglyceride levels are associated with several factors, including being overweight, eating too many sweets or drinking too much alcohol, smoking, being sedentary, or having
+diabetes with elevated blood sugar levels. Analysis has proven useful in the diagnosis and treatment of patients with diabetes mellitus, nephrosis, liver obstruction, other
+diseases involving lipid metabolism, and various endocrine disorders. In conjunction with high density lipoprotein and total serum cholesterol, a triglyceride determination
+provides valuable information for the assessment of coronary heart disease risk.It is done in fasting state.
+
+High-density lipoprotein (HDL) cholesterol. This is sometimes called the ""good"" cholesterol because it helps carry away LDL cholesterol, thus keeping arteries open and
+blood flowing more freely.HDL cholesterol is inversely related to the risk for cardiovascular disease. It increases following regular exercise, moderate alcohol consumption
+and with oral estrogen therapy. Decreased levels are associated with obesity, stress, cigarette smoking and diabetes mellitus.
+
+SERUM LDL The small dense LDL test can be used to determine cardiovascular risk in individuals with metabolic syndrome or established/progressing coronary artery disease,
+individuals with triglyceride levels between 70 and 140 mg/dL, as well as individuals with a diet high in trans-fat or carbohydrates. Elevated sdLDL levels are associated with
+metabolic syndrome and an ‘atherogenic lipoprotein profile’, and are a strong, independent predictor of cardiovascular disease.
+
+Elevated levels of LDL arise from multiple sources. A major factor is sedentary lifestyle with a diet high in saturated fat. Insulin-resistance and pre-diabetes have also been
+implicated, as has genetic predisposition. Measurement of sdLDL allows the clinician to get a more comprehensive picture of lipid risk factors and tailor treatment accordingly.
+Reducing LDL levels will reduce the risk of CVD and MI.
+
+Recommendations:
+Results of Lipids should always be interpreted in conjunction with the patient’s medical history, clinical presentation and other findings.
+
+NON FASTING LIPID PROFILE includes Total Cholesterol, HDL Cholesterol and calculated non-HDL Cholesterol. It does not include triglycerides and may be best used in
+patients for whom fasting is difficult.
+
+SERUM BLOOD UREA NITROGEN-Causes of Increased levels
+
+Pre renal
+
+e High protein diet, Increased protein catabolism, GI haemorrhage, Cortisol, Dehydration, CHF Renal
+
+e Renal Failure
+
+Post Renal
+
+e Malignancy, Nephrolithiasis, Prostatism
+
+Causes of decreased levels
+
+e Liver disease
+
+e SIADH.
+
+CREATININE, SERUM-Higher than normal level may be due to:
+
+e Blockage in the urinary tract
+
+e Kidney problems, such as kidney damage or failure, infection, or reduced blood flow
+e Loss of body fluid (dehydration)
+
+Page 11 Of 13‘SRL
+iil Bee Rest Resp ahas fl | | Dia gnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENT ID : GIRIMO91176111
+ACCESSION NO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+e Muscle problems, such as breakdown of muscle fibers
+e Problems during pregnancy, such as seizures (eclampsia)), or high blood pressure caused by pregnancy (preeclampsia)
+
+Lower than normal level may be due to:
+e Myasthenia Gravis
+
+e Muscular dystrophy
+
+URIC ACID, SERUM-Causes of Increased levels
+Dietary
+
+e High Protein Intake.
+
+e Prolonged Fasting,
+
+e Rapid weight loss.
+
+Gout
+
+Lesch nyhan syndrome.
+
+Type 2 DM.
+
+Metabolic syndrome.
+
+Causes of decreased levels
+e Low Zinc Intake
+
+e OCP’s
+
+e Multiple Sclerosis
+
+Nutritional tips to manage increased Uric acid levels
+
+e Drink plenty of fluids
+
+e Limit animal proteins
+
+e High Fibre foods
+
+e Vit C Intake
+
+e Antioxidant rich foods
+
+TOTAL PROTEIN, SERUM-Serum total protein,also known as total protein, is a biochemical test for measuring the total amount of protein in serum..Protein in the plasma is
+made up of albumin and globulin
+
+Higher-than-normal levels may be due to: Chronic inflammation or infection, including HIV and hepatitis B or C, Multiple myeloma, Waldenstrom''"''"'s disease
+Lower-than-normal levels may be due to: Agammaglobulinemia, Bleeding (hemorrhage),Burns,Glomerulonephritis, Liver disease, Malabsorption, Malnutrition, Nephrotic
+syndrome, Protein-losing enteropathy etc.
+
+ALBUMIN, SERUM-Human serum albumin is the most abundant protein in human blood plasma. It is produced in the liver. Albumin constitutes about half of the blood serum
+protein. Low blood albumin levels (hypoalbuminemia) can be caused by: Liver disease like cirrhosis of the liver, nephrotic syndrome, protein-losing enteropathy, Burns,
+hemodilution, increased vascular permeability or decreased lymphatic clearance,malnutrition and wasting etc.
+
+ELECTROLYTES (NA/K/CL), SERUM-ELECTROLYTES (NA/K/CL), SERUM
+
+Sodium levels are Increased in dehydration, cushing s syndrome, aldosteronism & decreased in Addison s disease, hypopituitarism,liver disease. Hypokalemia (low K)
+is common in vomiting, diarrhea, alcoholism, folic acid deficiency and primary aldosteronism. Hyperkalemia may be seen in end-stage renal failure, hemolysis, trauma,
+Addison''''""'s disease, metabolic acidosis, acute starvation, dehydration, and with rapid K infusion.Chloride is increased in dehydration, renal tubular acidosis (hyperchloremia
+metabolic acidosis), acute renal failure, metabolic acidosis associated with prolonged diarrhea and loss of sodium bicarbonate, diabetes insipidus, adrenocortical hyperfuction,
+salicylate intoxication and with excessive infusion of isotonic saline or extremely high dietary intake of salt.Chloride is decreased in overhydration, chronic respiratory acidosis,
+salt-losing nephritis, metabolic alkalosis, congestive heart failure, Addisonian crisis, certain types of metabolic acidosis, persistent gastric secretion and prolonged vomiting,
+URINALYSIS-Routine urine analysis assists in screening and diagnosis of various metabolic, urological, kidney and liver disorders
+
+Protein: Elevated proteins can be an early sign of kidney disease. Urinary protein excretion can also be temporarily elevated by strenuous exercise, orthostatic proteinuria,
+dehydration, urinary tract infections and acute illness with fever
+
+Glucose: Uncontrolled diabetes mellitus can lead to presence of glucose in urine. Other causes include pregnancy, hormonal disturbances, liver disease and certain
+medications.
+
+Ketones: Uncontrolled diabetes mellitus can lead to presence of ketones in urine. Ketones can also be seen in starvation, frequent vomiting, pregnancy and strenuous
+exercise.
+
+Blood: Occult blood can occur in urine as intact erythrocytes or haemoglobin, which can occur in various urological, nephrological and bleeding disorders.
+
+Leukocytes: An increase in leukocytes is an indication of inflammation in urinary tract or kidneys. Most common cause is bacterial urinary tract infection.
+
+Nitrite: Many bacteria give positive results when their number is high. Nitrite concentration during infection increases with length of time the urine specimen is retained in
+bladder prior to collection.
+
+pH: The kidneys play an important role in maintaining acid base balance of the body. Conditions of the body producing acidosis/ alkalosis or ingestion of certain type of food
+can affect the pH of urine.
+
+Specific gravity: Specific gravity gives an indication of how concentrated the urine is. Increased specific gravity is seen in conditions like dehydration, glycosuria and
+proteinuria while decreased specific gravity is seen in excessive fluid intake, renal failure and diabetes insipidus.
+
+Bilirubin: In certain liver diseases such as biliary obstruction or hepatitis, bilirubin gets excreted in urine.
+
+Urobilinogen: Positive results are seen in liver diseases like hepatitis and cirrhosis and in cases of hemolytic anemia
+
+MAGNESIUM, SERUM-Moderate or severe magnesium deficiency is usually due to losses of magnesium from gastrointestinal tract or kidneys as in vomiting and
+diarrhoea in former and alcohol, diabetes mellitus (osmotic diuresis), loop diuretics (furosemide) and aminoglycoside antibiotics in latter.
+
+Symptomatic hypermagnesemia is almost always caused by excessive intake with concomitant renal failure, thereby decreasing the ability of the kidneys to
+excrete excess magnesium.
+
+Magnesium concentration in erythrocytes are approximately three times those of serum. Conversion factors for the units used to express magnesium
+
+Page 12 Of 13‘SRL
+| Behe Keo | Diagnostics
+
+CLIENT CODE: C0Q00021309
+
+CLIENT'S NAME AND ADDRESS : SRL LIMITED
+
+AMBICARE CLINICS & DIAGNOSTICS 2-91/68/HHA/8, Harihara Arcade, 2nd Floor, Opp. Botanical
+2-91/68/HHA/8P, PLOT NO.8, 4TH FLOOR, HERIHARA ARCADE OPP. Garden,Kondapur
+
+BOTANICAL GARDEN, KONDAPUR, HYDERABAD, 500084
+
+OPP. BOTANICAL GARDEN, KONDAPUR, ANDHRA PRADESH, INDIA
+
+HYDERABAD 500084 Tel : 040-23004017/80, Fax :
+
+TELANGANA INDIA CIN - U74899PB1995PLC045956
+
+040-23004080-17 9908393399 Email : kondapur2@ambicareclinics.com
+
+PATIENT NAME : GIRI DEVANATHAN PATIENT ID : GIRIMO91176111
+ACCESSION NO: 0111SE002157 AGE: 42 Years SEX: Male DATE OF BIRTH : 09/11/1976
+
+DRAWN: 14/05/2019 11:20 RECEIVED: 14/05/2019 12:14 REPORTED : 14/05/2019 14:56
+REFERRING DOCTOR: SELF CLIENT PATIENT ID : 53021
+
+Test Report Status Preliminary Results Biological Reference Interval Units
+
+concentration are:
+
+1 SEROLOGY i
+Oe a a ee ee 4
+* CRP, SEMI-QUANTITATIVE, SERUM
+
+C-REACTIVE PROTEIN <6 <6 mg/L
+
+Interpretation(s)
+CRP, SEMI-QUANTITATIVE, SERUM-C - reactive protein (CRP) is an acute phase reactant protein that has the property of showing elevations in concentrations in response to
+stressful or inflammatory states that occur with infection, injury, surgery, trauma or other tissue necrosis.
+
+Synthesis of CRP increases within 4-6 hours of onset of inflammation, reaching peak values within 1-2 days. CRP levels also fall quickly after resolution of inflammation since
+its half life is 6 hours. The main limitation of CRP is in its non-specific response and should not be interpreted without a complete clinical history and evaluation.: Latex
+particle agglutination
+
+**End Of Report**
+Please visit www.srlworld.com for related Test Information for this accession
+
+Dr. M. D. V. Ramnath
+Consultant Pathologist
+
+CONDITIONS OF LABORATORY TESTING & REPORTING
+
+1. It is presumed that the test sample belongs to the 5. The results of a laboratory test are dependent on
+
+patient named or identified in the test requisition form. the quality of the sample as well as the assay
+
+2. All Tests are performed and reported as per the technology.
+
+turnaround time stated in the SRL Directory of services 6. Result delays could be because of uncontrolled
+
+(DOS). circumstances. e.g. assay run failure.
+
+3. SRL confirms that all tests have been performed or 7. Tests parameters marked by asterisks are excluded
+
+assayed with highest quality standards, clinical safety & from the “scope" of NABL accredited tests. (If
+
+technical integrity. laboratory is accredited).
+
+4. A requested test might not be performed if: 8. Laboratory results should be correlated with clinical
+a. Specimen received is insufficient or inappropriate information to determine Final diagnosis.
+
+specimen quality is unsatisfactory 9. Test results are not valid for Medico- legal purposes.
+b. Incorrect specimen type 10. In case of queries or unexpected test results please
+c. Request for testing is withdrawn by the ordering call at SRL customer care (Toll free: 1800-222-000).
+
+doctor or patient Post proper investigation repeat analysis may be carried
+d. There is a discrepancy between the label on the out.
+
+specimen container and the name on the test
+
+requisition form
+
+SRL Limited
+
+Fortis Hospital, Sector 62, Phase VIII,
+Mohali 160062
+
+ 
+
+Page 13 Of 13
